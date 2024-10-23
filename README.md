@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @federicoalie
-- 👀 I’m interested in mobile and full stack programming
-- 🌱 I’m currently learning mobile program with java
+- 👀 I’m interested in full stack programming
+- 🌱 I’m currently learning rest api with node.js
 - 📫 How to reach me 
 -     - instagram: federicoalie
 
