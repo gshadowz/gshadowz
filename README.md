@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @federicoalie
 - 👀 I’m interested in full stack programming
 - 🌱 I’m currently learning rest api with node.js
-- 📫 How to reach me 
--     - instagram: federicoalie
 
 <!---
 federicoalie/federicoalie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
