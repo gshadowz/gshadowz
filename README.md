@@ -7,6 +7,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gshadowz/gshadowz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gshadowz/gshadowz/refs/heads/output/snake.svg%3Fpalette%3Dgithub-dark%20dist/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
